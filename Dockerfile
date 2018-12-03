@@ -1,6 +1,6 @@
 # 版本信息
 FROM centos:7.2.1511
-MAINTAINER llf "898959800@qq.com"
+MAINTAINER lilenfeng
 
 # 设置当前工具目录
 # 该命令不会新增镜像层
